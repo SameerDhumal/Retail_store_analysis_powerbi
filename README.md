@@ -1,3 +1,8 @@
+Preview of Dasboard
+![powerbi](https://github.com/SameerDhumal/Retail_store_analysis_powerbi/assets/145559776/46cac8ce-687c-4ad1-b0dc-f766e0426cab)
+
+
+
 Business Context/Summary:
 The objective of the exercise is working and managing multiple tables. As part of this exercise, we
 are loading the data from multiple sources and defining and managing relationships between them.
